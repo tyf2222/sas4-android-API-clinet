@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#f2f0e9" /> <!-- لون الخلفية -->
+    <corners android:radius="100dp" /> <!-- نصف قطر الزاوية المستديرة بالبكسل -->
+</shape>

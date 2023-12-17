@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mena Iraq</string>
+    <string name="active">Active</string>
+    <string name="unactive">Expired</string>
+    <string name="online">Online</string>
+    <string name="ofline">Offline</string>
+    <string name="username">Username</string>
+    <string name="days">Remaining Days</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="mena">Mena Iraq Telecommunications</string>
+    <string name="out">Please press again to exit</string>
+    <string name="no_int">Please enter your username and password</string>
+    <string name="no_user">Please enter your username</string>
+    <string name="no_pass">Please enter your password</string>
+    <string name="login_don">Login successful</string>
+    <string name="rong_int">Incorrect username or password</string>
+    <string name="renew">Renew Subscription</string>
+    <string name="activit">To reactivate your subscription, please enter the recharge card number below</string>
+    <string name="rech">Redeem Card</string>
+    <string name="acinfo">Account Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="EX_date">Exp</string>
+
+
+</resources>

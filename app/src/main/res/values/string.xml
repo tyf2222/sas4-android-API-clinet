@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">مينا العراق</string>
+    <string name="active">فعال</string>
+    <string name="unactive">منتهي</string>
+    <string name="online">متصل</string>
+    <string name="ofline">غير متصل</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="days">الايام المتبقية</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="password">كلمة المرور</string>
+    <string name="mena">مينا العراق للاتصالات</string>
+    <string name="out">يرجى الضغط مره اخرى للخروج</string>
+    <string name="no_int">يرجى ادخال اسم المستخدم و كلمة المرور</string>
+    <string name="no_user">يرجى ادخال اسم المستخدم</string>
+    <string name="no_pass">يرجى ادخال كلمة المرور</string>
+    <string name="login_don">تم تسجيل الدخول بنجاح</string>
+    <string name="rong_int">اسم المستخدم او كلمة المرور خطاء</string>
+    <string name="renew">تجديد الاشتراك</string>
+    <string name="activit">لاعادة تفعيل اشتركك يرجى ادخال رقم بطاقة التعبة بالاسفل</string>
+    <string name="rech">تعبئة البطاقة</string>
+    <string name="acinfo">معلومات الحساب</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="EX_date">تأريخ الانتهاء</string>
+</resources>

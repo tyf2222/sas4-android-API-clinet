@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="user_load" type="id" />
+    <item name="online_load" type="id" />
+    <item name="days_load" type="id" />
+</resources>
